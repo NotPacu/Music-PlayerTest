@@ -1,0 +1,7 @@
+requests
+Pillow
+youtube-search-python==1.6.6
+eyed3
+youtube-search
+pygame
+mutagen
